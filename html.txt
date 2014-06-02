@@ -1,0 +1,295 @@
+<h2>So what’s coming up, and how do I register?</h2>
+<table id="nextcontest" width="800" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr class="head">
+<td nowrap="nowrap">
+<p align="center"><strong>Marathon <br />Match Contests</strong></p>
+</td>
+<td nowrap="nowrap">
+<p align="center"><strong>Contest Type</strong></p>
+</td>
+<td nowrap="nowrap">
+<p align="center"><strong>Start</strong></p>
+</td>
+<td nowrap="nowrap">
+<p align="center"><strong>End</strong></p>
+</td>
+<td nowrap="nowrap">
+<p align="center"><strong>Contest Link</strong></p>
+</td>
+<td nowrap="nowrap">
+<p align="center"><strong>Total Prize Money</strong></p>
+</td>
+<td nowrap="nowrap">
+<p align="center"><strong>Description</strong></p>
+</td>
+</tr>
+<tr>
+<td valign="bottom" nowrap="nowrap" width="80">Analytics Challenge <br />Problem Statement</td>
+<td valign="bottom" nowrap="nowrap" width="50">Content Creation</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">7/3/2013</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">7/8/2013</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="50"><span style="text-decoration: underline;"><a href="https://www.topcoder.com/tc?module=ProjectDetail&amp;pj=30034395" target="_blank">tc?<wbr>module=ProjectDetail&amp;pj=<wbr>30034395</wbr></wbr></a></span></td>
+<td valign="bottom" nowrap="nowrap" width="50">
+<p align="right">$4,500</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="50">Help create a problem statement for the Marathon Match.</td>
+</tr>
+<tr>
+<td valign="bottom" nowrap="nowrap" width="80">Visualizer and Local Tester</td>
+<td valign="bottom" nowrap="nowrap" width="50">Assembly</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">7/23/2013</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">8/3/2013</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="50"><span style="text-decoration: underline;"><a href="https://www.topcoder.com/tc?module=ProjectDetail&amp;pj=30034397" target="_blank">tc?<wbr>module=ProjectDetail&amp;pj=<wbr>30034397</wbr></wbr></a></span></td>
+<td valign="bottom" nowrap="nowrap" width="50">
+<p align="right">$1,400</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="50">Create the visualizer and local tester for the Marathon Match.</td>
+</tr>
+<tr>
+<td valign="bottom" nowrap="nowrap" width="80">Data Depth and Preparedness</td>
+<td valign="bottom" nowrap="nowrap" width="50">Bug Hunt</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">8/6/2013</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">8/10/2013</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="50"><span style="text-decoration: underline;"><a href="https://www.topcoder.com/tc?module=ProjectDetail&amp;pj=30034398" target="_blank">tc?<wbr>module=ProjectDetail&amp;pj=<wbr>30034398</wbr></wbr></a></span></td>
+<td valign="bottom" nowrap="nowrap" width="50">
+<p align="right">$900</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="50">Prepare the data for the Marathon Match.</td>
+</tr>
+<tr>
+<td valign="bottom" nowrap="nowrap" width="80">Challenge Quality Control</td>
+<td valign="bottom" nowrap="nowrap" width="50">Bug Hunt</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">8/12/2013</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">8/16/2013</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="50"><span style="text-decoration: underline;"><a href="https://www.topcoder.com/tc?module=ProjectDetail&amp;pj=30034399" target="_blank">tc?<wbr>module=ProjectDetail&amp;pj=<wbr>30034399</wbr></wbr></a></span></td>
+<td valign="bottom" nowrap="nowrap" width="50">
+<p align="right">$900</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="50">Verify the data before pushing the Marathon Match live.</td>
+</tr>
+<tr>
+<td valign="bottom" nowrap="nowrap" width="80">Analytics Contest</td>
+<td valign="bottom" nowrap="nowrap" width="50">Marathon Match</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">8/19/2013</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">9/4/2013</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="50"><span style="text-decoration: underline;"><a href="https://www.topcoder.com/tc?module=ProjectDetail&amp;pj=30034400" target="_blank">tc?<wbr>module=ProjectDetail&amp;pj=<wbr>30034400</wbr></wbr></a></span></td>
+<td valign="bottom" nowrap="nowrap" width="50">
+<p align="right">$9,000</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+
+
+
+<table width="1905" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr class="head">
+<td nowrap="nowrap">
+<p align="center"><strong>Android App Contests</strong></p>
+</td>
+<td nowrap="nowrap">
+<p align="center"><strong>Contest Type</strong></p>
+</td>
+<td nowrap="nowrap">
+<p align="center"><strong>Start</strong></p>
+</td>
+<td nowrap="nowrap">
+<p align="center"><strong>End</strong></p>
+</td>
+<td nowrap="nowrap">
+<p align="center"><strong>Contest Link</strong></p>
+</td>
+<td nowrap="nowrap">
+<p align="center"><strong>Total Prize Money</strong></p>
+</td>
+<td nowrap="nowrap">
+<p align="center"><strong>Description</strong></p>
+</td>
+</tr>
+<tr>
+<td valign="bottom" nowrap="nowrap" width="80">Design Concepts for Cyanobacterial Bloom Mapping</td>
+<td valign="bottom" nowrap="nowrap" width="50">Mobile Screen</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">6/29/2013</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">7/11/2013</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="50"><span style="text-decoration: underline;"><a href="https://studio.topcoder.com/?module=ViewContestDetails&amp;ct=30034600" target="_blank">tcs?<wbr>module=ViewContestDetails&amp;ct=<wbr>30034600</wbr></wbr></a></span></td>
+<td valign="bottom" nowrap="nowrap" width="50">
+<p align="right">$1,600</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="50">Design concepts for cyanobacteria bloom mapping.</td>
+</tr>
+<tr>
+<td valign="bottom" nowrap="nowrap" width="80">Conceptualization</td>
+<td valign="bottom" nowrap="nowrap" width="50">Conceptualization</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">7/5/2013</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">7/16/2013</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="50"><span style="text-decoration: underline;"><a href="https://www.topcoder.com/tc?module=ProjectDetail&amp;pj=30034432" target="_blank">tc?<wbr>module=ProjectDetail&amp;pj=<wbr>30034432</wbr></wbr></a></span></td>
+<td valign="bottom" nowrap="nowrap" width="50">
+<p align="right">$2,700</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="50">Define the high-level business requirements.</td>
+</tr>
+<tr>
+<td valign="bottom" nowrap="nowrap" width="80">Admin Website Wireframes</td>
+<td valign="bottom" nowrap="nowrap" width="50">Wireframes</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">7/16/2013</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">7/26/2013</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="50"><span style="text-decoration: underline;"><a href="https://studio.topcoder.com/?module=ViewContestDetails&amp;ct=30034433" target="_blank">tcs?<wbr>module=ViewContestDetails&amp;ct=<wbr>30034433</wbr></wbr></a></span></td>
+<td valign="bottom" nowrap="nowrap" width="50">
+<p align="right">$1,700</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="50">Create simple wireframes for the admin website.</td>
+</tr>
+<tr>
+<td valign="bottom" nowrap="nowrap" width="80">Mobile Wireframes</td>
+<td valign="bottom" nowrap="nowrap" width="50">Wireframes</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">7/18/2013</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">7/30/2013</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="50"><span style="text-decoration: underline;"><a href="https://studio.topcoder.com/?module=ViewContestDetails&amp;ct=30034434" target="_blank">tcs?<wbr>module=ViewContestDetails&amp;ct=<wbr>30034434</wbr></wbr></a></span></td>
+<td valign="bottom" nowrap="nowrap" width="50">
+<p align="right">$2,250</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="50">Create simple wireframes for the mobile application.</td>
+</tr>
+<tr>
+<td valign="bottom" nowrap="nowrap" width="80">Admin Website Architecture</td>
+<td valign="bottom" nowrap="nowrap" width="50">Architecture</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">7/29/2013</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">8/9/2013</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="50"><span style="text-decoration: underline;"><a href="https://www.topcoder.com/tc?module=ProjectDetail&amp;pj=30034100" target="_blank">tc?<wbr>module=ProjectDetail&amp;pj=<wbr>30034100</wbr></wbr></a></span></td>
+<td valign="bottom" nowrap="nowrap" width="50">
+<p align="right">$2,700</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="50">Define the technical architecture of the admin website.</td>
+</tr>
+<tr>
+<td valign="bottom" nowrap="nowrap" width="80">Storyboard</td>
+<td valign="bottom" nowrap="nowrap" width="50">App Frontend</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">8/2/2013</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">8/14/2013</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="50"><span style="text-decoration: underline;"><a href="https://studio.topcoder.com/?module=ViewContestDetails&amp;ct=30034437" target="_blank">tcs?<wbr>module=ViewContestDetails&amp;ct=<wbr>30034437</wbr></wbr></a></span></td>
+<td valign="bottom" nowrap="nowrap" width="50">
+<p align="right">$1,700</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="50">Construct the user interface design of the android app.</td>
+</tr>
+<tr>
+<td valign="bottom" nowrap="nowrap" width="80">Specification</td>
+<td valign="bottom" nowrap="nowrap" width="50">Specification</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">8/5/2013</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">8/16/2013</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="50"><span style="text-decoration: underline;"><a href="https://www.topcoder.com/tc?module=ProjectDetail&amp;pj=30034438" target="_blank">tc?<wbr>module=ProjectDetail&amp;pj=<wbr>30034438</wbr></wbr></a></span></td>
+<td valign="bottom" nowrap="nowrap" width="50">
+<p align="right">$2,700</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="50">Create detailed business requirements.</td>
+</tr>
+<tr>
+<td valign="bottom" nowrap="nowrap" width="80">System Architecture</td>
+<td valign="bottom" nowrap="nowrap" width="50">Architecture</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">8/5/2013</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">8/16/2013</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="50"><span style="text-decoration: underline;"><a href="https://www.topcoder.com/tc?module=ProjectDetail&amp;pj=30034439" target="_blank">tc?<wbr>module=ProjectDetail&amp;pj=<wbr>30034439</wbr></wbr></a></span></td>
+<td valign="bottom" nowrap="nowrap" width="50">
+<p align="right">$2,700</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="50">Define the technical architecture of the admin website.</td>
+</tr>
+<tr>
+<td valign="bottom" nowrap="nowrap" width="80">Admin Website System Assembly</td>
+<td valign="bottom" nowrap="nowrap" width="50">Assembly</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">8/9/2013</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">8/20/2013</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="50"><span style="text-decoration: underline;"><a href="https://www.topcoder.com/tc?module=ProjectDetail&amp;pj=30034436" target="_blank">tc?<wbr>module=ProjectDetail&amp;pj=<wbr>30034436</wbr></wbr></a></span></td>
+<td valign="bottom" nowrap="nowrap" width="50">
+<p align="right">$2,700</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="50">Assemble and code the admin website.</td>
+</tr>
+<tr>
+<td valign="bottom" nowrap="nowrap" width="80">Module Architecture</td>
+<td valign="bottom" nowrap="nowrap" width="50">Architecture</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">8/19/2013</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">8/30/2013</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="50"><span style="text-decoration: underline;"><a href="https://www.topcoder.com/tc?module=ProjectDetail&amp;pj=30034440" target="_blank">tc?<wbr>module=ProjectDetail&amp;pj=<wbr>30034440</wbr></wbr></a></span></td>
+<td valign="bottom" nowrap="nowrap" width="50">
+<p align="right">$2,700</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="50">Define a modularized architecture based on the system architecture.</td>
+</tr>
+<tr>
+<td valign="bottom" nowrap="nowrap" width="80">UI Prototype</td>
+<td valign="bottom" nowrap="nowrap" width="50">UI Prototype Competition</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">9/2/2013</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="75">
+<p align="right">9/13/2013</p>
+</td>
+<td valign="bottom" nowrap="nowrap" width="50">-</td>
+<td valign="bottom" nowrap="nowrap" width="50">-</td>
+<td valign="bottom" nowrap="nowrap" width="50">-</td></tr>
+</tbody>
+</table>

@@ -1,0 +1,186 @@
+<div id="complicatedLayout">			
+			
+			<div class="item">
+				<span class='rank'>1</span>
+				<div class="photo">					
+					<img src="http://community.topcoder.com/i/m/nophoto_login.gif">				
+				</div>	
+				<div class="prize">$10.000</div>
+				<div class="handle">carlop</div>
+				<div class="submission">Submission <span>4</span></div>
+				<div class="score">Score <span>150.00</span></div>				
+			</div>
+			
+			<div class="item">
+				<span class='rank green'>2</span>
+				<div class="photo">
+					<img src="http://community.topcoder.com/i/m/nophoto_login.gif">				
+				</div>	
+				<div class="prize">$1.500</div>
+				<div class="handle">handle</div>
+				<div class="submission">Submission <span>4</span></div>
+				<div class="score">Score <span>150.00</span></div>				
+			</div>
+			
+			<div class="item">
+				<span class='rank green'>3</span>
+				<div class="photo">
+					<img src="http://community.topcoder.com/i/m/nophoto_login.gif">				
+				</div>	
+				<div class="prize">$1.500</div>
+				<div class="handle">handle</div>
+				<div class="submission">Submission <span>4</span></div>
+				<div class="score">Score <span>150.00</span></div>				
+			</div>
+			
+			<div class="item">
+				<span class='rank green'>4</span>
+				<div class="photo">
+					<img src="http://community.topcoder.com/i/m/nophoto_login.gif">				
+				</div>	
+				<div class="prize">$1.500</div>
+				<div class="handle">handle</div>
+				<div class="submission">Submission <span>4</span></div>
+				<div class="score">Score <span>150.00</span></div>				
+			</div>
+			
+			<div class="item last">
+				<span class='rank green'>5</span>
+				<div class="photo">
+					<img src="http://community.topcoder.com/i/m/nophoto_login.gif">				
+				</div>	
+				<div class="prize">$1.500</div>
+				<div class="handle">handle</div>
+				<div class="submission">Submission <span>4</span></div>
+				<div class="score">Score <span>150.00</span></div>				
+			</div>
+			
+			<div class="item">
+				<span class='rank green'>6</span>
+				<div class="photo">
+					<img src="http://community.topcoder.com/i/m/nophoto_login.gif">				
+				</div>	
+				<div class="prize">$1.500</div>
+				<div class="handle">handle</div>
+				<div class="submission">Submission <span>4</span></div>
+				<div class="score">Score <span>150.00</span></div>				
+			</div>
+			
+			<div class="item">
+				<span class='rank green'>7</span>
+				<div class="photo">
+					<img src="http://community.topcoder.com/i/m/nophoto_login.gif">				
+				</div>	
+				<div class="prize">$1.500</div>
+				<div class="handle">handle</div>
+				<div class="submission">Submission <span>4</span></div>
+				<div class="score">Score <span>150.00</span></div>				
+			</div>
+			
+			<div class="item">
+				<span class='rank green'>8</span>
+				<div class="photo">
+					<img src="http://community.topcoder.com/i/m/nophoto_login.gif">				
+				</div>	
+				<div class="prize">$1.500</div>
+				<div class="handle">handle</div>
+				<div class="submission">Submission <span>4</span></div>
+				<div class="score">Score <span>150.00</span></div>				
+			</div>
+			
+			<div class="item">
+				<span class='rank green'>9</span>
+				<div class="photo">
+					<img src="http://community.topcoder.com/i/m/nophoto_login.gif">				
+				</div>	
+				<div class="prize">$1.500</div>
+				<div class="handle">handle</div>
+				<div class="submission">Submission <span>4</span></div>
+				<div class="score">Score <span>150.00</span></div>				
+			</div>
+			
+			<div class="item last">
+				<span class='rank green'>10</span>
+				<div class="photo">
+					<img src="http://community.topcoder.com/i/m/nophoto_login.gif">				
+				</div>	
+				<div class="prize">$1.500</div>
+				<div class="handle">handle</div>
+				<div class="submission">Submission <span>4</span></div>
+				<div class="score">Score <span>150.00</span></div>				
+			</div>
+			
+			<div class="milestoneTitle">Milestone Winners</div> 
+			
+
+			<div class="innerWrapper">
+							<strong>Congratulations! The following TopCoder members are the winners of the 2nd Milestone:</strong><p></p>
+				<table border="0" cellpadding="0" cellspacing="0">
+				<thead>
+				<tr>
+				<td>Placement</td>
+				<td>Prize</td>
+				<td>Handle</td>
+				</tr>
+				</thead>
+				<tbody>
+				<tr>
+				<td>1st Place</td>
+				<td>$1,000</td>
+				<td><strong>carlop</strong></td>
+				</tr>
+				<tr class="odd">
+				<td>2nd Place</td>
+				<td>$750</td>
+				<td><strong>zlfengyi1</strong></td>
+				</tr>
+				<tr>
+				<td>3rd Place</td>
+				<td>$500</td>
+				<td><strong>Psyho</strong></td>
+				</tr>
+				<tr class="odd">
+				<td>4th Place</td>
+				<td>$250</td>
+				<td><strong>zaq1xsw2tktk</strong></td>
+				</tr>
+				</tbody>
+				</table>
+				<p>&nbsp;</p>
+				<p><strong><strong>Winners of the 1<sup>st</sup> Milestone:</strong></strong></p>
+				<table border="0" cellpadding="0" cellspacing="0">
+				<thead>
+				<tr>
+				<td>Placement</td>
+				<td>Prize</td>
+				<td>Handle</td>
+				</tr>
+				</thead>
+				<tbody>
+				<tr>
+				<td>1st Place</td>
+				<td>$1,000</td>
+				<td><strong>kevin00050</strong></td>
+				</tr>
+				<tr class="odd">
+				<td>2nd Place</td>
+				<td>$750</td>
+				<td><strong>Psyho</strong></td>
+				</tr>
+				<tr>
+				<td>3rd Place</td>
+				<td>$500</td>
+				<td><strong>yepx</strong></td>
+				</tr>
+				<tr class="odd">
+				<td>4th Place</td>
+				<td>$250</td>
+				<td><strong>aksam5800</strong></td>
+				</tr>
+				</tbody>
+				</table>
+				<br />
+				</div>
+			
+			
+		</div>	

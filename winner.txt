@@ -1,0 +1,18 @@
+<div id="contentArea">
+        <h2>Challenge Winners</h2>
+        <div style="background: #f9f3e8;padding: 10px;border: 1px solid #e9b041;margin: 0px 15px 15px 15px"><strong>Congratulations! The following TopCoder members are the winners of the 2nd&nbsp;Milestone:</strong></div>
+<div style="background: #f9f3e8;padding: 10px;border: 1px solid #e9b041;margin: 0px 15px 15px 15px">
+<div>1st Place ($1,000): carlop</div>
+<div>2nd Place ($750):&nbsp;zlfengyi1</div>
+<div>3rd Place ($500): Psyho</div>
+<div>4th Place ($250):&nbsp;zaq1xsw2tktk</div>
+</div>
+<div style="background: #f9f3e8;padding: 10px;border: 1px solid #e9b041;margin: 0px 15px 15px 15px"><strong>Winners of the 1<sup>st</sup> Milestone:</strong></div>
+<div style="background: #f9f3e8;padding: 10px;border: 1px solid #e9b041;margin: 0px 15px 15px 15px">
+<div>1st Place ($1,000): kevin00050</div>
+<div>2nd Place ($750): Psyho</div>
+<div>3rd Place ($500): yepx</div>
+<div>4th Place ($250): aksam5800</div>
+<div></div>
+</div>
+  	</div>
